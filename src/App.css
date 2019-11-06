@@ -20,3 +20,26 @@
 .App-link {
   color: #09d3ac;
 }
+
+.Input-flow {
+
+  display: inline-flex;
+  width: 15rem;
+  height: 3rem;
+  border: 0.3rem solid white;
+  
+}
+
+.Calcul-button {
+  display: inline-flex;
+  width: 3rem;
+  height: 4rem;
+  align-items: center;
+  justify-content: center;
+  margin: 1rem;
+  background-color: gray;
+}
+
+.Calcul-button:hover {
+  background-color: aqua;
+}
